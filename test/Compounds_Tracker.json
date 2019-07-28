@@ -1,0 +1,148 @@
+{
+    "Compounds": {
+        "Cu2HgGeTe4": {
+            "Cu": 2.0,
+            "Ge": 1.0,
+            "Hg": 1.0,
+            "Te": 4.0,
+            "band_gap": 0.3810000000000002,
+            "dft_Cu": 2.0,
+            "dft_Ge": 1.0,
+            "dft_Hg": 1.0,
+            "dft_Te": 4.0,
+            "elements_list": [
+                "Cu",
+                "Hg",
+                "Ge",
+                "Te"
+            ],
+            "enthalpy": -1.8901886700000023,
+            "formula_units": 1.0,
+            "mu0": -30.631472,
+            "number_species": 4,
+            "total_energy": -30.631472,
+            "vbm": 4.0489
+        },
+        "CuTe": {
+            "Cu": 1.0,
+            "Te": 1.0,
+            "band_gap": 0.014100000000000001,
+            "dft_Cu": 2.0,
+            "dft_Te": 2.0,
+            "elements_list": [
+                "Cu",
+                "Te"
+            ],
+            "enthalpy": -0.32114049999999983,
+            "formula_units": 2.0,
+            "mu0": -7.93931,
+            "number_species": 2,
+            "total_energy": -15.87862,
+            "vbm": 5.9939
+        },
+        "GeTe": {
+            "Ge": 1.0,
+            "Te": 1.0,
+            "band_gap": 0.7798000000000007,
+            "dft_Ge": 3.0,
+            "dft_Te": 3.0,
+            "elements_list": [
+                "Ge",
+                "Te"
+            ],
+            "enthalpy": -0.10995333333333468,
+            "formula_units": 3.0,
+            "mu0": -9.442674333333335,
+            "number_species": 2,
+            "total_energy": -28.328023,
+            "vbm": 5.8332
+        },
+        "Hg2GeTe4": {
+            "Ge": 1.0,
+            "Hg": 2.0,
+            "Te": 4.0,
+            "band_gap": 0.7749999999999999,
+            "dft_Ge": 1.0,
+            "dft_Hg": 2.0,
+            "dft_Te": 4.0,
+            "elements_list": [
+                "Hg",
+                "Ge",
+                "Te"
+            ],
+            "enthalpy": -1.4096583400000018,
+            "formula_units": 1.0,
+            "mu0": -23.05871,
+            "number_species": 3,
+            "total_energy": -23.05871,
+            "vbm": 3.2403
+        },
+        "HgTe": {
+            "Hg": 1.0,
+            "Te": 1.0,
+            "band_gap": 1.0133999999999999,
+            "dft_Hg": 1.0,
+            "dft_Te": 1.0,
+            "elements_list": [
+                "Hg",
+                "Te"
+            ],
+            "enthalpy": -0.5906486699999998,
+            "formula_units": 1.0,
+            "mu0": -4.762872,
+            "number_species": 2,
+            "total_energy": -4.762872,
+            "vbm": 2.1932
+        }
+    },
+    "Elements": {
+        "Cu": {
+            "Cu": 1.0,
+            "dft_Cu": 4.0,
+            "elements_list": [
+                "Cu"
+            ],
+            "enthalpy": 0.0,
+            "formula_units": 4.0,
+            "mu0": -3.6462855,
+            "number_species": 1,
+            "total_energy": -14.585142
+        },
+        "Ge": {
+            "Ge": 1.0,
+            "dft_Ge": 2.0,
+            "elements_list": [
+                "Ge"
+            ],
+            "enthalpy": 0.0,
+            "formula_units": 2.0,
+            "mu0": -5.360837,
+            "number_species": 1,
+            "total_energy": -10.721674
+        },
+        "Hg": {
+            "Hg": 1.0,
+            "dft_Hg": 2.0,
+            "elements_list": [
+                "Hg"
+            ],
+            "enthalpy": 0.0,
+            "formula_units": 2.0,
+            "mu0": -0.20033933,
+            "number_species": 1,
+            "total_energy": -0.40067866
+        },
+        "Te": {
+            "Te": 1.0,
+            "dft_Te": 3.0,
+            "elements_list": [
+                "Te"
+            ],
+            "enthalpy": 0.0,
+            "formula_units": 3.0,
+            "mu0": -3.9718839999999997,
+            "number_species": 1,
+            "total_energy": -11.915652
+        }
+    }
+}
