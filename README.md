@@ -53,7 +53,9 @@ VTAnDeM must be called from the command terminal. The steps are as follows:
 	```
 2. Import all of your DFT data. This can be done in one of three ways:
 	1. Open the VTAnDeM user interface.
-		`vtandem --open`
+		```
+		vtandem --open
+		```
 		(Help can be found in the **help buttons**, which are included in the import dialogs.)
 	2. Import data from the command line.
 		- Phase Stability Data:
