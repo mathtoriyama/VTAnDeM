@@ -59,13 +59,17 @@ VTAnDeM must be called from the command terminal. The steps are as follows:
 		(Help can be found in the **help buttons**, which are included in the import dialogs.)
 	2. Import data from the command line.
 		- Phase Stability Data:
-			`vtandem --import_element Cu ~/Materials_Data/Cu`
-			`vtandem --import_element Hg ~/Materials_Data/Hg`
-			`vtandem --import_element Ge ~/Materials_Data/Ge`
-			`vtandem --import_element Te ~/Materials_Data/Te`
-			`vtandem --import_compound Cu2HgGeTe4 ~/Materials_Data/Cu2HgGeTe4`
+			```
+			vtandem --import_element Cu ~/Materials_Data/Cu
+			vtandem --import_element Hg ~/Materials_Data/Hg
+			vtandem --import_element Ge ~/Materials_Data/Ge
+			vtandem --import_element Te ~/Materials_Data/Te
+			vtandem --import_compound Cu2HgGeTe4 ~/Materials_Data/Cu2HgGeTe4
+			```
 		- Defects Data:
-			`vtandem --import_defects Cu2HgGeTe4 ~/Defects_Data/Cu2HgGeTe4 2 2 2`
+			```
+			vtandem --import_defects Cu2HgGeTe4 ~/Defects_Data/Cu2HgGeTe4 2 2 2
+			```
 		- DOS Data:
 			`vtandem --import_dos Cu2HgGeTe4 ~/Materials_Data/Cu2HgGeTe4/DOSCAR`
 		- Help can be found with the `vtandem --help` command.
