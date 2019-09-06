@@ -46,9 +46,11 @@ Usage:
 ------
 VTAnDeM must be called from the command terminal. The steps are as follows:
 1. Create a **VTAnDeM project** in a directory of your choice.
-	`mkdir vtandem_project`
-	`cd vtandem_project`
-	`vtandem --new`
+	```
+	mkdir vtandem_project
+	cd vtandem_project
+	vtandem --new
+	```
 2. Import all of your DFT data. This can be done in one of three ways:
 	1. Open the VTAnDeM user interface.
 		`vtandem --open`
