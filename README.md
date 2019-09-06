@@ -71,7 +71,9 @@ VTAnDeM must be called from the command terminal. The steps are as follows:
 			vtandem --import_defects Cu2HgGeTe4 ~/Defects_Data/Cu2HgGeTe4 2 2 2
 			```
 		- DOS Data:
-			`vtandem --import_dos Cu2HgGeTe4 ~/Materials_Data/Cu2HgGeTe4/DOSCAR`
+			```
+			vtandem --import_dos Cu2HgGeTe4 ~/Materials_Data/Cu2HgGeTe4/DOSCAR
+			```
 		- Help can be found with the `vtandem --help` command.
 	3. Import data from Python interface.
 		- Phase Stability Data:
@@ -100,6 +102,8 @@ VTAnDeM must be called from the command terminal. The steps are as follows:
 			x.Update_DOS_Database()
 			```
 3. Open the VTAnDeM interface.
-	`vtandem --visualize`
+	```
+	vtandem --visualize
+	```
 	(Note that this step is not necessary if you opened the VTAnDeM UI in step 2.1)
 
